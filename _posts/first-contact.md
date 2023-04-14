@@ -28,3 +28,4 @@ while i < 6:
 ## photos
 
 ![img-description](/assets/images/solarpunk_mask2.jpg)
+_mymine_
