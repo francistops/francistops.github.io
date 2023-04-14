@@ -1,8 +1,8 @@
 ---
-title: Initial Post
-date: 2023-04-13 12:00:00 -500
-categories: [homelab,update]
-tags: [server,website] # TAG names should always be lowercase
+title: Initial-Post
+date: 2023-04-13 12:00:00 -0500
+categories: [homelab, update]
+tags: [server, website] # TAG names should always be lowercase
 ---
 
 # Welcome to my doc site
@@ -27,5 +27,7 @@ while i < 6:
 
 ## photos
 
-![img-description](/assets/images/solarpunk_mask2.jpg)
 _mymine_
+
+> Example line for prompt.
+{: .prompt-info }
